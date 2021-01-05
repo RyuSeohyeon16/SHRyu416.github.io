@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "Ryu Seo Hyeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a slow walker, but I never walk back.  **cArfE DieM** ."
+  bio              : "I'm a slow walker,</br>but I never walk back.</br>  **cArfE DieM** ."
   location         : "Seoul, South Korea"
   email            :
   links:
